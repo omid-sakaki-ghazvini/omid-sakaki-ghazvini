@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/alison_machine_learning.jpg" width="100" height="100">
+  <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/alison_machine_learning.jpg" width="200" height="100">
   <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/bigdata.png" width="100" height="100"/> 
   <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/cognitiveclass1.png" width="100" height="100"/> 
   <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/datascience_method.png" width="100" height="100">
