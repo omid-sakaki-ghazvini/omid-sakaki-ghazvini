@@ -19,7 +19,7 @@ Hello! I’m **omid sakaki**, Bachelor of Computer software Engineering and Mast
 
 - 📫 How to reach me **omidsakaki@yahoo.com**
 
-<h3 align="left">Job experiences:</h3>
+<h3 align="left">Job Experiences:</h3>
 
   • Founder and Full-Stack Developer at HoshYar Platform
 
