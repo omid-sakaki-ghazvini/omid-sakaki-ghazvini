@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/profile.jpg" alt="omid sakaki gazvini" style="height:200px;">
+  <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/profile.jpg" alt="omid sakaki gazvini" style="width:500px;height:200px;">
 </p>
 
 <h1 align="center">omid sakaki ghazvini</h1> 
