@@ -1,18 +1,18 @@
 <p align="center">
   <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/alison_machine_learning.jpg" width="200" height="100">
-  <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/bigdata.png" width="100" height="100"/> 
-  <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/cognitiveclass1.png" width="100" height="100"/> 
-  <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/datascience_method.png" width="100" height="100">
-  <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/datascience_tools.png" width="100" height="100"/> 
-  <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/datascience101.png" width="100" height="100"/> 
-  <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/deep_learning_ibm.png" width="100" height="100">
-  <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/free_code_camp.jpg" width="100" height="100"/> 
-  <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/hadoop101.png" width="100" height="100"/> 
-  <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/omid sakaki - Computer Vision.png" width="100" height="100">
-  <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/omid sakaki - Intermediate Machine Learning.png" width="100" height="100"/> 
-  <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/omid sakaki - Intro to Deep Learning.png" width="100" height="100"/> 
-  <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/omid sakaki - Time Series.png" width="100" height="100"/> 
-  <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/sertificate_datascience.png" width="100" height="100"/> 
+  <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/bigdata.png" width="200" height="100"/> 
+  <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/cognitiveclass1.png" width="200" height="100"/> 
+  <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/datascience_method.png" width="200" height="100"/>
+  <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/datascience_tools.png" width="200" height="100"/> 
+  <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/datascience101.png" width="200" height="100"/> 
+  <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/deep_learning_ibm.png" width="200" height="100"/>
+  <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/free_code_camp.jpg" width="200" height="100"/> 
+  <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/hadoop101.png" width="200" height="100"/> 
+  <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/omid sakaki - Computer Vision.png" width="200" height="100"/>
+  <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/omid sakaki - Intermediate Machine Learning.png" width="200" height="100"/> 
+  <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/omid sakaki - Intro to Deep Learning.png" width="200" height="100"/> 
+  <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/omid sakaki - Time Series.png" width="200" height="100"/> 
+  <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/sertificate_datascience.png" width="200" height="100"/> 
 </p>
 
 <h1 align="center">omid sakaki ghazvini</h1> 
