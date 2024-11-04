@@ -6,7 +6,7 @@
 
 <h3 align="left">👨‍🎓 About Me</h3> 
 
-Hello! I’m **Sam**, a PhD student in Computer Science at **Utah State University**. My research focuses on **Generative Models, Time Series Analysis**, and **Solar Flare Prediction**. I'm best described as dedicated, disciplined, and hard-working.
+Hello! I’m **omid sakaki**, Bachelor of Computer software Engineering and Master in Artificial Intelligence from Science and Research Branch in Tehran. My research focuses on **Deep Learning Models**. I'm best described as dedicated, disciplined, and hard-working.
 ##
 
 <h3 align="left">💻 Technical Proficiency</h3> 
