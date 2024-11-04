@@ -1,5 +1,7 @@
 <p align="center">
   <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/profile.jpg" alt="omid sakaki gazvini" style="width:500px;height:200px;">
+  <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/profile.jpg" alt="bootstrap" width="40" height="40"/> 
+  <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/profile.jpg" alt="c" width="40" height="40"/> 
 </p>
 
 <h1 align="center">omid sakaki ghazvini</h1> 
