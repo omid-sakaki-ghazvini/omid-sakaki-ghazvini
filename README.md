@@ -21,15 +21,14 @@ Hello! I’m **omid sakaki**, Bachelor of Computer software Engineering and Mast
 
 <h3 align="left">Job Experiences:</h3>
 
-  • Founder and Full-Stack Developer at HoshYar Platform
+- Founder and Full-Stack Developer at **HoshYar** Platform
 
-  • Co-Founder at https://omidsakaki.ir/
+- Co-Founder at https://omidsakaki.ir/
 
-  • Senior Software Expert in the http://mokeb.atabat.org project
+- Senior Software Expert in the http://mokeb.atabat.org project
 
-  • Lecturer of Artificial Intelligence in Technical and Professional Organization of Iran
+- Experience in several organizational projects and startups in the fields of **finance** and **computer vision**
 
-  • Experience in several organizational projects and startups in the fields of finance and computer vision
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
