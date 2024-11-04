@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm omid sakaki ghazvini</h1>
 <h3 align="center">Data Scientist & Master of Artificial Intelligence & Full-Stack Developer at Iran's Technical and Vocational Training Organization</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omid-sakaki-ghazvini" alt="omid-sakaki-ghazvini" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/omidsakaki" target="blank"><img src="https://img.shields.io/twitter/follow/omidsakaki?logo=twitter&style=for-the-badge" alt="omidsakaki" /></a> </p>
 
 - 👯 I’m looking to collaborate on **software Engineering and Artificial Intelligence**
