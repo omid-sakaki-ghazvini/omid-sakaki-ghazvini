@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm omid sakaki ghazvini</h1>
 <h3 align="center">Data Scientist & Master of Artificial Intelligence & Full-Stack Developer at Iran's Technical and Vocational Training Organization</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omid-sakaki-ghazvini&label=Profile%20views&color=0e75b6&style=flat" alt="omid-sakaki-ghazvini" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omid-sakaki-ghazvini" alt="omid-sakaki-ghazvini" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/omidsakaki" target="blank"><img src="https://img.shields.io/twitter/follow/omidsakaki?logo=twitter&style=for-the-badge" alt="omidsakaki" /></a> </p>
@@ -18,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/omidsakaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omidsakaki" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/omid-sakaki-ghazvini-378687217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omid-sakaki-ghazvini-378687217/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/omidsakaki1370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/omidsakaki1370" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/omid-sakaki-ghazvini-378687217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omid-sakaki-ghazvini-378687217" height="30" width="40" /></a>
+<a href="https://kaggle.com/omidsakaki1370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="omidsakaki1370" height="30" width="40" /></a>
 <a href="https://instagram.com/omid_sakaki_ghazvini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omid_sakaki_ghazvini" height="30" width="40" /></a>
 </p>
 
