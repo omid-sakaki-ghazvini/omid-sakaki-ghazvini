@@ -19,6 +19,13 @@ Hello! I’m **omid sakaki**, Bachelor of Computer software Engineering and Mast
 
 - 📫 How to reach me **omidsakaki@yahoo.com**
 
+<h3 align="left">Job experiences:</h3>
+• Founder and Full-Stack Developer at HoshYar Platform
+• Co-Founder at https://omidsakaki.ir/
+• Senior Software Expert in the http://mokeb.atabat.org project
+• Lecturer of Artificial Intelligence in Technical and Professional Organization of Iran
+• Experience in several organizational projects and startups in the fields of finance and computer vision
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/omidsakaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omidsakaki" height="30" width="40" /></a>
