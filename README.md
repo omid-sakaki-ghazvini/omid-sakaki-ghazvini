@@ -28,7 +28,6 @@ Hello! I’m **omid sakaki**, Bachelor of Computer software Engineering and Mast
 <img src="https://img.shields.io/badge/SQL-Expert-green" alt="SQL Icon">  
 <img src="https://img.shields.io/badge/NoSQL-Proficient-blue" alt="NoSQL Icon">  
 <img src="https://img.shields.io/badge/Docker-Proficient-blue" alt="Docker Icon"> 
-<img src="https://img.shields.io/badge/Celery-Proficient-blue" alt="Celery Icon"> 
 <img src="https://img.shields.io/badge/HTML-Expert-green" alt="HTML Icon">  
 <img src="https://img.shields.io/badge/CSS-Expert-green" alt="CSS Icon">  
 
@@ -42,15 +41,15 @@ Hello! I’m **omid sakaki**, Bachelor of Computer software Engineering and Mast
         <h3>🌐 My Online Presence</h3>
         <p>Stay updated on my news, research, and projects through the following platforms:</p>
         <ul>
-          <li><a href="https://linkedin.com/in/samresume">LinkedIn</a></li>
-          <li><a href="https://samresume.com/">Personal Website</a></li>
-          <li><a href="https://www.researchgate.net/profile/Mohammadreza-Eskandarinasab/research">ResearchGate</a></li>
+          <li><a href="https://www.linkedin.com/in/omid-sakaki-ghazvini-378687217/">LinkedIn</a></li>
+          <li><a href="https://omidsakaki.ir/">Personal Website</a></li>
+          <li><a href="https://www.kaggle.com/omidsakaki1370">Kaggle</a></li>
         </ul>
       </td>
       <td style="width: 50%; vertical-align: top;">
         <h3>🚀 GitHub Activity</h3>
         <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samresume&layout=compact&theme=light" alt="Sam's Top Languages">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omid-sakaki-ghazvini&layout=compact&theme=light" alt="omid's Top Languages">
         </p>
       </td>
     </tr>
