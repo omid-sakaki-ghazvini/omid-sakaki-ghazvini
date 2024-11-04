@@ -26,7 +26,6 @@ Hello! I’m **omid sakaki**, Bachelor of Computer software Engineering and Mast
 <img src="https://img.shields.io/badge/Django-Expert-green" alt="Django Icon">  
 <img src="https://img.shields.io/badge/React-Expert-green" alt="React Icon">  
 <img src="https://img.shields.io/badge/SQL-Expert-green" alt="SQL Icon">  
-<img src="https://img.shields.io/badge/NoSQL-Proficient-blue" alt="NoSQL Icon">  
 <img src="https://img.shields.io/badge/Docker-Proficient-blue" alt="Docker Icon"> 
 <img src="https://img.shields.io/badge/HTML-Expert-green" alt="HTML Icon">  
 <img src="https://img.shields.io/badge/CSS-Expert-green" alt="CSS Icon">  
