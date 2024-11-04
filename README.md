@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/samresume/samresume/blob/main/wallpaper.jpg" alt="Sam EskandariNasab">
+  <img src="https://github.com/omid-sakaki-ghazvini/omid-sakaki-ghazvini/blob/main/profile.jpeg" alt="Sam EskandariNasab">
 </p>
 
 <h1 align="center">omid sakaki ghazvini</h1> 
