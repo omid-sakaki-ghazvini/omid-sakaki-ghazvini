@@ -154,15 +154,6 @@ I am actively open to collaboration in:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omid-sakaki-ghazvini&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omid-sakaki-ghazvini&layout=compact" />
-</p>
-
----
-
 ## 📌 Closing Statement
 
 Bridging **Artificial Intelligence research, education, and real-world industrial systems** is the core focus of my professional journey. I aim to design AI systems that are not only theoretically strong, but also scalable, practical, and impactful in real-world applications.
